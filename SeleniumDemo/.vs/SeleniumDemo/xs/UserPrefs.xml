@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{83381FB1-0D23-4520-AF84-CA7CA9F5D1E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SearchGoogle.cs">
+    <Files>
+      <File FileName="SearchGoogle.cs" Line="46" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SeleniumDemo" expanded="True">
+            <Node name="SeleniumDemo" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="SearchGoogle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SeleniumDemo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SeleniumDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
