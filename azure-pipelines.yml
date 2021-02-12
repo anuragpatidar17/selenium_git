@@ -29,6 +29,7 @@ steps:
   inputs:
     command: 'test'
     projects: '**\*testhost.dll'
+    publishTestResults: false
 - task: CopyFiles@2
   inputs:
     sourceFolder: $(Build.SourcesDirectory)
